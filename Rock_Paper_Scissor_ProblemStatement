@@ -1,0 +1,29 @@
+Problem Statement
+
+Create a text-based Rock-Paper-Scissors game.
+Allow the user to play multiple rounds against a computer opponent.
+Provide clear instructions and feedback to the user.
+Implement a system to track the number of wins, losses, and draws.
+Allow the user to exit the game at any time.
+Constraints:
+
+The game should be playable from the command line.
+The computer's choice should be random.
+The game should handle invalid user input gracefully.
+The game should provide a clear and concise interface.
+Expected Behavior:
+
+The game should display a welcome message and prompt the user for their name.
+The game should present a menu with options to play, check scores, or exit.
+When playing, the user should select a choice (Rock, Paper, or Scissors).
+The computer should randomly select a choice.
+The game should determine the winner (user, computer, or draw) based on the rules of Rock-Paper-Scissors.
+The game should display the result of each round and the updated scores.
+The game should allow the user to exit at any time.
+The game should handle invalid user input gracefully.
+Success Criteria:
+
+The game should run smoothly without errors.
+The game should provide accurate results and feedback.
+The game should be user-friendly and easy to understand.
+The game should be enjoyable to play.
